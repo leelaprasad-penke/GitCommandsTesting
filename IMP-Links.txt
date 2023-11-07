@@ -1,0 +1,5 @@
+Create and setup new account
+https://www.youtube.com/watch?v=p8bZBvcFPuk
+
+Discconect and connect new git account
+https://medium.com/@devesu/how-to-logout-from-git-in-windows-e17c66fe9ca8
